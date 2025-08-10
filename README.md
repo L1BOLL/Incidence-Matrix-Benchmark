@@ -55,5 +55,8 @@ In `benchmark_framework.py`:
 - **Model**: incidence memory rises much faster with size (example: 10 000 nodes median ≈ 68 MB vs ~0 MB for NetworkX).
 - **Measured RSS deltas**: noisy and often near zero (RSS has coarse steps). Use the model for true trends.
 
-# The directory names "2" has the files: incidence_graph.py where the incidence matrix class is defined, benchmark_framework for becnhmark layout and benchmark_main.
-# The "Enhanced Memory Models" is the directory where linear memory estimators are used and output plots are implemented. The files serve the same purposes.
+---
+
+- **The directory names "2" has the files: incidence_graph.py where the incidence matrix class is defined, benchmark_framework for becnhmark layout and benchmark_main.**
+
+- **The "Enhanced Memory Models" is the directory where linear memory estimators are used and output plots are implemented. The files serve the same purposes.**
