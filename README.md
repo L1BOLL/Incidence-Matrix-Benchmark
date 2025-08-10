@@ -57,6 +57,6 @@ In `benchmark_framework.py`:
 
 ---
 
-- **The directory names "2" has the files: incidence_graph.py where the incidence matrix class is defined, benchmark_framework for becnhmark layout and benchmark_main.**
+- **The directory named "2" has the files: `incidence_graph.py` where the incidence matrix class is defined, `benchmark_framework.py` for becnhmark layout and `benchmark_main.py`.**
 
-- **The "Enhanced Memory Models" is the directory where linear memory estimators are used and output plots are implemented. The files serve the same purposes.**
+- **The "Enhanced Memory Models" is the same directory but where linear memory estimators are used and output plots are implemented.**
